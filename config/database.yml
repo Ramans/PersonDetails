@@ -28,7 +28,7 @@ test:
   database: PersonDetails_test
   pool: 5
   username: root
-  password: Raman
+  password: Ramans
   socket: /var/run/mysqld/mysqld.sock
 
 production:
